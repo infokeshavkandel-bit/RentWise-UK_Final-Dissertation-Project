@@ -1,0 +1,20 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+.env
+
+.DS_Store
+
+models/*.pkl
+
+outputs/
+
+data/processed/
+
+# Large datasets
+data/raw/hm_land_registry/2025/price_paid_2025.csv
